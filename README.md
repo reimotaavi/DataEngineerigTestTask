@@ -1,5 +1,7 @@
 # DataEngineerigTestTask
 
+I chose to scrape Euronics's website to get price information about mechanical keyboards.
+
 For the setup, download the folder and upload it to Jupyter Notebook.
 
 In the folder, there are 2 .ipynb files end .exe file. The .exe file is web driver used to connect to a website.
